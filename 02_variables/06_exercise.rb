@@ -1,0 +1,1 @@
+puts "The shoe variable was not set or not in scope."
