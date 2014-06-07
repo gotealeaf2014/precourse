@@ -1,0 +1,1 @@
+puts "Syntax error where the wrong closing bracket was used."
