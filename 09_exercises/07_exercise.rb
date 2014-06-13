@@ -1,0 +1,1 @@
+puts "An array is an zero indexed list of values. A hash is a list of key value pairs."
