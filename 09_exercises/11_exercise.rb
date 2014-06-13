@@ -1,0 +1,1 @@
+puts "I like array of hashes because it resembles flat json."
