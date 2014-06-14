@@ -2,3 +2,4 @@ contacts = {"Joe Smith"=>["joe@email.com", "123 Main st.", "555-123-4567"], "Sal
 
 p contacts["Joe Smith"][0]
 p contacts["Sally Johnson"][2]
+

@@ -5,5 +5,5 @@ family = {  uncles: ["bob", "joe", "steve"],
           }
 
 new_hash = family.select { |k,v| k == :sisters || k == :brothers }
-immediate_family = new_hash.values.to_a.flatten
+immediate_family = new_hash.values.flatten
 p immediate_family

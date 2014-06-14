@@ -6,3 +6,5 @@ if hash1 == hash2
 else
 	puts "These hashes are not the same!"
 end
+
+puts "The output would be \"These hashes are the same!\""

@@ -1,10 +1,10 @@
 fruits = {banana: "yellow", apple: "red", grapes: "green" }
 
-fruits.each do |key|
+fruits.each do |key, value|
 	puts key
 end
 
-fruits.each do |value|
+fruits.each do |key, value|
 	puts value
 end
 

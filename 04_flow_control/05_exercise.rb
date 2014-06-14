@@ -12,9 +12,9 @@ end
 
 def num_range_case(a)
   case
-  when a >= 0 && a <= 50
+  when a >= 0 && a < 50
   	puts "#{a} is between 0 and 50"
-  when a >= 50 && a < 100
+  when a > 50 && a < 100
   	puts "#{a} is between 50 and 100"
   when a > 100
   	puts "#{a} is over 100"
